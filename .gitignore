@@ -1,0 +1,4 @@
+/output
+client_secret.json
+prompt_*.txt
+.env
